@@ -1,13 +1,14 @@
-# `@azz/prettier-config`
+# `marcincook/prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> Marcincook [Prettier](https://prettier.io) config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+yarn add --dev marcincook/prettier-config
+npm install --dev marcincook/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +16,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "marcincook/prettier-config"
 }
 ```
